@@ -1,0 +1,16 @@
+{
+    "name": "testapp",
+    "version": "1.0.0",
+    "dependencies": {
+        "-": "^0.0.1",
+        "chai": "^4.3.7",
+        "D": "^1.0.0",
+        "selenium-webdriver": "^4.20.0"
+    },
+    "scripts": {
+        "test": "mocha --recursive --timeout 60000"
+    },
+    "devDependencies": {
+        "mocha": "^10.4.0"
+    }
+}
